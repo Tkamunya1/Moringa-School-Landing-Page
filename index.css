@@ -341,10 +341,7 @@ body{
         font-size: x-large;
        }
        /* contact us */
-        
-       
-       
-       .contact{
+        .contact{
         display: flex;
         padding-left: 200px;
         margin-top: 100px;
