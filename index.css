@@ -171,24 +171,25 @@ body{
         color:white 
         }
         .board .top{
+        top:1500px;
         position: absolute;
         right: 750px;
         color: white;
-        top:1500px;
         
         }
        
        
        
-        /* graduation section */
+        /* Graduation */
        
        
         .story .hg2{
         position: absolute;
         /* bottom: 8px; */
+        color: white;
         left: 220px;
         top: 2300px;
-        color: white;
+        
         
         }
         .story .top2{
@@ -199,11 +200,11 @@ body{
         color:white;
         
         }
-       /* technical mentors */
+       /* Technical Mentors */
         
        .column {
-        float: left;
         width: 22.22%;
+        float: left;
         padding: 5px;
         }
         
